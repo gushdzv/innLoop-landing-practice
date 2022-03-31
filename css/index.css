@@ -151,6 +151,10 @@ z-index: 1;
   background-color: #053472;
   color: #fff;
 }
+
+iframe {
+  max-width: 30rem;
+}
   
 .stand-1 {
   height: 90px;
@@ -351,11 +355,7 @@ footer {
       font-size: 1.2rem;
     
     iframe {
-      max-width: 15%;
-    }
-
-    .stand-1 {
-      left: 170px;
+      max-width: 15rem;
     }
 
     .about {
