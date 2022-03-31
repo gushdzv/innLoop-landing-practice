@@ -349,4 +349,23 @@ footer {
     .btn {
       padding: 0.5rem;
       font-size: 1.2rem;
+    
+    iframe {
+      max-width: 26rem;
+    }
+
+    .stand-1 {
+      left: 170px;
+    }
+    .stand-2 {
+      left: 225px;
+    }
+
+    .about {
+      text-align: center;
+    }
+
+    .persons {
+      grid-template-columns: repeat(1, 1fr);
+    }
     }}
