@@ -350,15 +350,12 @@ footer {
       padding: 0.5rem;
       font-size: 1.2rem;
     
-    iframe {
+    .i-frame {
       max-width: 26rem;
     }
 
     .stand-1 {
       left: 170px;
-    }
-    .stand-2 {
-      left: 225px;
     }
 
     .about {
